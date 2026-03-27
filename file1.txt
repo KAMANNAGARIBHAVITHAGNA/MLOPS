@@ -1,3 +1,7 @@
 Hello Github
 New line added
+<<<<<<< HEAD
 Branch change
+=======
+Main branch change
+>>>>>>> main
